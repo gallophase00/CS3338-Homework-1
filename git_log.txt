@@ -1,0 +1,62 @@
+commit 2385606eb5c3d26d1810bd2a81a821f4e2c516c5
+Merge: f37cdce a6fb4ed
+Author: gallophase00 <untying.outside.1b@icloud.com>
+Date:   Sat Sep 13 22:58:24 2025 -0700
+
+    Merge pull request #2 from gallophase00/feature-about-me
+    
+    Feature about me
+
+commit a6fb4eda9151420c5da4242bfff515df52a3fe5b
+Merge: 8e5f82f f37cdce
+Author: gallophase00 <untying.outside.1b@icloud.com>
+Date:   Sat Sep 13 22:58:13 2025 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 8e5f82fdbf58e685dfc69da59ab003e7f0aff189
+Author: gallophase000 <t.est30chapter1@gmail.com>
+Date:   Sat Sep 13 22:46:26 2025 -0700
+
+    Updated feateure about me
+    
+    Updated feature about me
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
